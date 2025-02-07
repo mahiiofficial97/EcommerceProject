@@ -24,8 +24,7 @@ public class AdminController {
 	BCryptPasswordEncoder bCryptPasswordEncoder = new BCryptPasswordEncoder();
 
 	
-	
-	
+//hello mahiii 
 	@Autowired
 	AdminImplService adminImplService;
 
